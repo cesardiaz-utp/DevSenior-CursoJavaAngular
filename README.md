@@ -1,6 +1,6 @@
 # Construcción de Aplicaciones Inteligentes con Spring Boot, Angular & AI
 
-## Clase 1: Introducción al Backend y la Arquitectura Empresarial
+## [Clase 1](Clase1.md): Introducción al Backend y la Arquitectura Empresarial
 
 **Objetivo**: Sentar las bases del desarrollo backend con Spring Boot y mostrar cómo la IA puede agilizar la creación de APIs.
 
@@ -24,7 +24,7 @@
     - **Controlador (`Controller`)**: Exposición de los endpoints RESTful (GET, POST, PUT, DELETE).
   - **Demo**: Realizar una prueba de los endpoints con una herramienta como Postman.
 
-## Clase 2: Desarrollo Frontend con Angular
+## [Clase 2](Clase2.md): Desarrollo Frontend con Angular
 
 **Objetivo**: Introducir los conceptos esenciales de Angular y mostrar cómo la IA puede acelerar la creación de componentes de la interfaz de usuario.
 
@@ -48,7 +48,7 @@
   - **Creación de un formulario de captura**: Generación de un componente para agregar o editar información.
   - **Práctica Guiada**: Uso de la IA para generar un formulario reactivo con validaciones básicas.
 
-## Clase 3: Integración, Seguridad y Mejores Prácticas
+## [Clase 3](Clase3.md): Integración, Seguridad y Mejores Prácticas
 
 **Objetivo**: Conectar el frontend y el backend, asegurar la aplicación y finalizar con recomendaciones clave para un desarrollo profesional.
 
